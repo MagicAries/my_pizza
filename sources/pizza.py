@@ -42,8 +42,11 @@ RECIPES = {
         'price': 11,
         'sauce': 'tomato'
     },
+<<<<<<< HEAD
     'my pizza': {
         'ingredients': {'mozzarella': 3, 'garlic': 5},
         'price': 11,
     }
+=======
+>>>>>>> 20c1aca630937c006fcb11f3314a3632240d8b81
 }
